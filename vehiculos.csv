@@ -1,0 +1,91 @@
+TIPOS DE VEHICULOS : MATRICULA : MARCA : MODELO : COLOR : TARIFA : DISPONIBLE
+0:4166BIH:Grotti:Turismo R:ROJO:871663.0:true:2:false
+0:2351MTJ:Grotti:Turismo R:ROJO:871663.0:true:2:false
+0:9663HAG:Grotti:Turismo R:ROJO:871663.0:true:2:false
+0:6066GGN:Grotti:Turismo R:ROJO:871663.0:true:2:false
+0:8409HRI:Grotti:Turismo R:ROJO:871663.0:true:2:false
+0:4734DSD:Grotti:Turismo R:ROJO:871663.0:true:2:false
+0:7080CAX:Grotti:Turismo R:ROJO:871663.0:true:2:false
+0:5251ZNJ:Grotti:Turismo R:ROJO:871663.0:true:2:false
+0:2045GIM:Grotti:Turismo R:ROJO:871663.0:true:2:false
+0:8194RRI:Grotti:Turismo R:ROJO:871663.0:true:2:false
+0:7374SIV:Grotti:Turismo R:ROJO:871663.0:true:2:false
+0:7532DHQ:Grotti:Turismo R:ROJO:871663.0:true:2:false
+0:8261MZJ:Grotti:Turismo R:ROJO:871663.0:true:2:false
+0:5423EVW:Grotti:Turismo R:ROJO:871663.0:true:2:false
+0:7980HHA:Grotti:Turismo R:ROJO:871663.0:true:2:false
+0:6603VIE:Grotti:Turismo R:ROJO:871663.0:true:2:false
+0:0266BXD:Grotti:Turismo R:ROJO:871663.0:true:2:false
+0:5871IVA:Grotti:Turismo R:ROJO:871663.0:true:2:false
+0:1201CDT:Grotti:Turismo R:ROJO:871663.0:true:2:false
+0:5548BLU:Grotti:Turismo R:ROJO:871663.0:true:2:false
+0:5108AXD:Grotti:Turismo R:ROJO:871663.0:true:2:false
+0:2628TMF:Grotti:Turismo R:ROJO:871663.0:true:2:false
+0:4670PGL:Grotti:Turismo R:ROJO:871663.0:true:2:false
+0:1295QTI:Grotti:Turismo R:ROJO:871663.0:true:2:false
+0:5351RCM:Grotti:Turismo R:ROJO:871663.0:true:2:false
+0:2303ZNV:Grotti:Turismo R:ROJO:871663.0:true:2:false
+0:6409UED:Grotti:Turismo R:ROJO:871663.0:true:2:false
+0:9933QJZ:Grotti:Turismo R:ROJO:871663.0:true:2:false
+0:0976VYX:Grotti:Turismo R:ROJO:871663.0:true:2:false
+0:6411VCB:Grotti:Turismo R:ROJO:871663.0:true:2:false
+1:6262DGI:Bugatti:veyron:AZUL:1200000.0:true:2984
+1:3389PWO:Bugatti:veyron:AZUL:1200000.0:true:2984
+1:1154MWX:Bugatti:veyron:AZUL:1200000.0:true:2984
+1:3482CAO:Bugatti:veyron:AZUL:1200000.0:true:2984
+1:2027HIS:Bugatti:veyron:AZUL:1200000.0:true:2984
+1:5106DNX:Bugatti:veyron:AZUL:1200000.0:true:2984
+1:5398JAI:Bugatti:veyron:AZUL:1200000.0:true:2984
+1:2452DDG:Bugatti:veyron:AZUL:1200000.0:true:2984
+1:9928HTG:Bugatti:veyron:AZUL:1200000.0:true:2984
+1:1257GEX:Bugatti:veyron:AZUL:1200000.0:true:2984
+1:3698EBC:Bugatti:veyron:AZUL:1200000.0:true:2984
+1:5208OZL:Bugatti:veyron:AZUL:1200000.0:true:2984
+1:0086VYM:Bugatti:veyron:AZUL:1200000.0:true:2984
+1:1856UYR:Bugatti:veyron:AZUL:1200000.0:true:2984
+1:0646TKB:Bugatti:veyron:AZUL:1200000.0:true:2984
+1:0573CBM:Bugatti:veyron:AZUL:1200000.0:true:2984
+1:9062DEM:Bugatti:veyron:AZUL:1200000.0:true:2984
+1:6163MBE:Bugatti:veyron:AZUL:1200000.0:true:2984
+1:6314SOD:Bugatti:veyron:AZUL:1200000.0:true:2984
+1:9393XXS:Bugatti:veyron:AZUL:1200000.0:true:2984
+1:5498WPL:Bugatti:veyron:AZUL:1200000.0:true:2984
+1:9232PHJ:Bugatti:veyron:AZUL:1200000.0:true:2984
+1:0636WFU:Bugatti:veyron:AZUL:1200000.0:true:2984
+1:1631XAF:Bugatti:veyron:AZUL:1200000.0:true:2984
+1:4122OJQ:Bugatti:veyron:AZUL:1200000.0:true:2984
+1:7048QCV:Bugatti:veyron:AZUL:1200000.0:true:2984
+1:0315XWB:Bugatti:veyron:AZUL:1200000.0:true:2984
+1:3567DOI:Bugatti:veyron:AZUL:1200000.0:true:2984
+1:2538EOL:Bugatti:veyron:AZUL:1200000.0:true:2984
+1:2972JNZ:Bugatti:veyron:AZUL:1200000.0:true:2984
+2:3716OBV:Volkswagen:California:GRIS:59400.0:true: Carga (kg):3500: Volumen (m3):75
+2:0644AQT:Volkswagen:California:GRIS:59400.0:true: Carga (kg):3500: Volumen (m3):75
+2:3057WIK:Volkswagen:California:GRIS:59400.0:true: Carga (kg):3500: Volumen (m3):75
+2:3134SGT:Volkswagen:California:GRIS:59400.0:true: Carga (kg):3500: Volumen (m3):75
+2:1592UZR:Volkswagen:California:GRIS:59400.0:true: Carga (kg):3500: Volumen (m3):75
+2:9954MTI:Volkswagen:California:GRIS:59400.0:true: Carga (kg):3500: Volumen (m3):75
+2:1364CZT:Volkswagen:California:GRIS:59400.0:true: Carga (kg):3500: Volumen (m3):75
+2:2953IJT:Volkswagen:California:GRIS:59400.0:true: Carga (kg):3500: Volumen (m3):75
+2:1016DRL:Volkswagen:California:GRIS:59400.0:true: Carga (kg):3500: Volumen (m3):75
+2:4026KDO:Volkswagen:California:GRIS:59400.0:true: Carga (kg):3500: Volumen (m3):75
+2:5732GLM:Volkswagen:California:GRIS:59400.0:true: Carga (kg):3500: Volumen (m3):75
+2:7970ABU:Volkswagen:California:GRIS:59400.0:true: Carga (kg):3500: Volumen (m3):75
+2:3230WBD:Volkswagen:California:GRIS:59400.0:true: Carga (kg):3500: Volumen (m3):75
+2:0841NNX:Volkswagen:California:GRIS:59400.0:true: Carga (kg):3500: Volumen (m3):75
+2:3339JVM:Volkswagen:California:GRIS:59400.0:true: Carga (kg):3500: Volumen (m3):75
+2:0105QNC:Volkswagen:California:GRIS:59400.0:true: Carga (kg):3500: Volumen (m3):75
+2:8588ATV:Volkswagen:California:GRIS:59400.0:true: Carga (kg):3500: Volumen (m3):75
+2:4095NQQ:Volkswagen:California:GRIS:59400.0:true: Carga (kg):3500: Volumen (m3):75
+2:1820KPM:Volkswagen:California:GRIS:59400.0:true: Carga (kg):3500: Volumen (m3):75
+2:9803XKZ:Volkswagen:California:GRIS:59400.0:true: Carga (kg):3500: Volumen (m3):75
+2:0432OUK:Volkswagen:California:GRIS:59400.0:true: Carga (kg):3500: Volumen (m3):75
+2:9122NFI:Volkswagen:California:GRIS:59400.0:true: Carga (kg):3500: Volumen (m3):75
+2:1667UIZ:Volkswagen:California:GRIS:59400.0:true: Carga (kg):3500: Volumen (m3):75
+2:2299HXY:Volkswagen:California:GRIS:59400.0:true: Carga (kg):3500: Volumen (m3):75
+2:3453FLA:Volkswagen:California:GRIS:59400.0:true: Carga (kg):3500: Volumen (m3):75
+2:6258OHS:Volkswagen:California:GRIS:59400.0:true: Carga (kg):3500: Volumen (m3):75
+2:0960SYG:Volkswagen:California:GRIS:59400.0:true: Carga (kg):3500: Volumen (m3):75
+2:5212YWA:Volkswagen:California:GRIS:59400.0:true: Carga (kg):3500: Volumen (m3):75
+2:2176YSA:Volkswagen:California:GRIS:59400.0:true: Carga (kg):3500: Volumen (m3):75
+2:2319NTE:Volkswagen:California:GRIS:59400.0:true: Carga (kg):3500: Volumen (m3):75

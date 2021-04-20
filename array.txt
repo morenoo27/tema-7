@@ -1,0 +1,90 @@
+3604ccq:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true:2:false
+7440los:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true:2:false
+6237dme:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true:2:false
+9522dxr:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true:2:false
+6179ggh:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true:2:false
+9112pxe:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true:2:false
+2993pvi:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true:2:false
+3818xxy:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true:2:false
+5175fgt:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true:2:false
+5459dwd:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true:2:false
+1789jbg:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true:2:false
+8806wvi:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true:2:false
+2706cqn:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true:2:false
+6281jae:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true:2:false
+1272wly:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true:2:false
+9711rtp:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true:2:false
+0852zdk:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true:2:false
+4559rgh:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true:2:false
+4869dfm:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true:2:false
+0512ush:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true:2:false
+9436uhj:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true:2:false
+9965mpr:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true:2:false
+0761fbr:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true:2:false
+3072vvq:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true:2:false
+6431ggi:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true:2:false
+0639jdf:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true:2:false
+2535rml:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true:2:false
+4507dmh:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true:2:false
+1232kth:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true:2:false
+6307owd:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true:2:false
+0478hlw:Bugatti:veyron:java.awt.Color[r=0,g=0,b=255]:1200000.0:true:2984
+5925rcm:Bugatti:veyron:java.awt.Color[r=0,g=0,b=255]:1200000.0:true:2984
+0995mhr:Bugatti:veyron:java.awt.Color[r=0,g=0,b=255]:1200000.0:true:2984
+2397aaj:Bugatti:veyron:java.awt.Color[r=0,g=0,b=255]:1200000.0:true:2984
+7910fnf:Bugatti:veyron:java.awt.Color[r=0,g=0,b=255]:1200000.0:true:2984
+4989xty:Bugatti:veyron:java.awt.Color[r=0,g=0,b=255]:1200000.0:true:2984
+6689qxc:Bugatti:veyron:java.awt.Color[r=0,g=0,b=255]:1200000.0:true:2984
+4283rna:Bugatti:veyron:java.awt.Color[r=0,g=0,b=255]:1200000.0:true:2984
+4462nkf:Bugatti:veyron:java.awt.Color[r=0,g=0,b=255]:1200000.0:true:2984
+9698uks:Bugatti:veyron:java.awt.Color[r=0,g=0,b=255]:1200000.0:true:2984
+6839iaj:Bugatti:veyron:java.awt.Color[r=0,g=0,b=255]:1200000.0:true:2984
+4537gko:Bugatti:veyron:java.awt.Color[r=0,g=0,b=255]:1200000.0:true:2984
+3438jht:Bugatti:veyron:java.awt.Color[r=0,g=0,b=255]:1200000.0:true:2984
+7694rcl:Bugatti:veyron:java.awt.Color[r=0,g=0,b=255]:1200000.0:true:2984
+8720hjb:Bugatti:veyron:java.awt.Color[r=0,g=0,b=255]:1200000.0:true:2984
+9272odn:Bugatti:veyron:java.awt.Color[r=0,g=0,b=255]:1200000.0:true:2984
+2970byq:Bugatti:veyron:java.awt.Color[r=0,g=0,b=255]:1200000.0:true:2984
+6883drb:Bugatti:veyron:java.awt.Color[r=0,g=0,b=255]:1200000.0:true:2984
+7543eav:Bugatti:veyron:java.awt.Color[r=0,g=0,b=255]:1200000.0:true:2984
+1340bxt:Bugatti:veyron:java.awt.Color[r=0,g=0,b=255]:1200000.0:true:2984
+2434frq:Bugatti:veyron:java.awt.Color[r=0,g=0,b=255]:1200000.0:true:2984
+6238ksu:Bugatti:veyron:java.awt.Color[r=0,g=0,b=255]:1200000.0:true:2984
+3324yac:Bugatti:veyron:java.awt.Color[r=0,g=0,b=255]:1200000.0:true:2984
+6333zhb:Bugatti:veyron:java.awt.Color[r=0,g=0,b=255]:1200000.0:true:2984
+6046gxi:Bugatti:veyron:java.awt.Color[r=0,g=0,b=255]:1200000.0:true:2984
+7813smm:Bugatti:veyron:java.awt.Color[r=0,g=0,b=255]:1200000.0:true:2984
+1484ycp:Bugatti:veyron:java.awt.Color[r=0,g=0,b=255]:1200000.0:true:2984
+4389bbf:Bugatti:veyron:java.awt.Color[r=0,g=0,b=255]:1200000.0:true:2984
+3496olk:Bugatti:veyron:java.awt.Color[r=0,g=0,b=255]:1200000.0:true:2984
+7496osw:Bugatti:veyron:java.awt.Color[r=0,g=0,b=255]:1200000.0:true:2984
+2072zcy:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true Carga (kg): 3500 Volumen (m3): 75
+2490fep:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true Carga (kg): 3500 Volumen (m3): 75
+0972qau:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true Carga (kg): 3500 Volumen (m3): 75
+8804yfu:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true Carga (kg): 3500 Volumen (m3): 75
+9258xbf:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true Carga (kg): 3500 Volumen (m3): 75
+7219muy:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true Carga (kg): 3500 Volumen (m3): 75
+9302shh:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true Carga (kg): 3500 Volumen (m3): 75
+6407yci:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true Carga (kg): 3500 Volumen (m3): 75
+8219lua:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true Carga (kg): 3500 Volumen (m3): 75
+1473coi:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true Carga (kg): 3500 Volumen (m3): 75
+2164vmi:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true Carga (kg): 3500 Volumen (m3): 75
+0672ucv:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true Carga (kg): 3500 Volumen (m3): 75
+2363gld:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true Carga (kg): 3500 Volumen (m3): 75
+3727uys:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true Carga (kg): 3500 Volumen (m3): 75
+3538fqq:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true Carga (kg): 3500 Volumen (m3): 75
+7802bwp:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true Carga (kg): 3500 Volumen (m3): 75
+6304dqh:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true Carga (kg): 3500 Volumen (m3): 75
+5404lub:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true Carga (kg): 3500 Volumen (m3): 75
+5582xwd:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true Carga (kg): 3500 Volumen (m3): 75
+8495hak:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true Carga (kg): 3500 Volumen (m3): 75
+0988sex:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true Carga (kg): 3500 Volumen (m3): 75
+7159nlo:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true Carga (kg): 3500 Volumen (m3): 75
+8253oph:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true Carga (kg): 3500 Volumen (m3): 75
+2838efa:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true Carga (kg): 3500 Volumen (m3): 75
+6575swi:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true Carga (kg): 3500 Volumen (m3): 75
+4124nqr:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true Carga (kg): 3500 Volumen (m3): 75
+4805qsu:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true Carga (kg): 3500 Volumen (m3): 75
+3698ujn:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true Carga (kg): 3500 Volumen (m3): 75
+9134ytw:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true Carga (kg): 3500 Volumen (m3): 75
+8273ulw:Grotti:Turismo R:java.awt.Color[r=255,g=0,b=0]:871663.0:true Carga (kg): 3500 Volumen (m3): 75
